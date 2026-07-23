@@ -81,6 +81,5 @@ Delete `traffic/models/traffic_model.pkl` and re-run `main.py` to retrain
 on updated data.
 
 
-## Adding a DBMS Image 
-![Model Architecture](DBMS.jpg)
+
 
