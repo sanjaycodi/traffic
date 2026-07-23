@@ -82,5 +82,5 @@ on updated data.
 
 
 ## Adding a DBMS Image 
-![Model Architecture](DBMS.png)
+![Model Architecture](DBMS.jpg)
 
